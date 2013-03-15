@@ -17,6 +17,7 @@ Files:
    (256x256 for the main website)
  * [logo-160.png] - a smaller logo with some padding trimmed for use on
    Twitter/etc.
+ * [qrcode.png] - QR code for "http://www.somakeit.org.uk"
 
 ## logo.png
 
@@ -30,6 +31,10 @@ Files:
 
 ![favicon.png][]
 
+## qrcode.png
+
+![qrcode.png][]
+
 ## somakeit.png
 
 ![somakeit.png][]
@@ -40,3 +45,4 @@ Files:
 [logo.png]: https://raw.github.com/so-make-it/graphics/master/logo.png
 [logo-160.png]: https://raw.github.com/so-make-it/graphics/master/logo-160.png
 [favicon.png]: https://raw.github.com/so-make-it/graphics/master/favicon.png
+[qrcode.png]: https://raw.github.com/so-make-it/graphics/master/qrcode.png
