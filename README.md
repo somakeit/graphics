@@ -28,10 +28,10 @@ Graphics:
    (256x256 for the main website)
  * [logo-square.png] - a square logo without padding for use on Twitter/etc.
  * [qrcode.png] - QR code for "http://www.somakeit.org.uk"
- * [bcardback.jpg] - Business card back
- * [bcardfront.jpg] - Business card front
- * [business_card.psd] - Photoshop business card front
- * [business_card_backside.psd] - Photoshop business card back
+ * bcardback.jpg - Business card back
+ * bcardfront.jpg - Business card front
+ * Business_Card Backside.psd - Photoshop business card front
+ * Business_Card.psd - Photoshop business card back
 
 ## logo.png
 
@@ -77,3 +77,4 @@ Graphics:
 [banner-on-green-flat.png]: https://raw.github.com/so-make-it/graphics/master/banner-on-green-flat.png
 [banner-on-green-gradient.png]: https://raw.github.com/so-make-it/graphics/master/banner-on-green-gradient.png
 [banner-on-white.png]: https://raw.github.com/so-make-it/graphics/master/banner-on-white.png
+
