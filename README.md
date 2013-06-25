@@ -28,10 +28,6 @@ Graphics:
    (256x256 for the main website)
  * [logo-square.png] - a square logo without padding for use on Twitter/etc.
  * [qrcode.png] - QR code for "http://www.somakeit.org.uk"
- * bcardback.jpg - Business card back
- * bcardfront.jpg - Business card front
- * Business_Card Backside.psd - Photoshop business card front
- * Business_Card.psd - Photoshop business card back
 
 ## logo.png
 
